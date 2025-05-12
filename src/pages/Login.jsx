@@ -19,7 +19,7 @@ const Login = () => {
     <Container maxWidth="sm">
       <Box sx={{ mt: 8, textAlign: 'center' }}>
         <Typography variant="h4" gutterBottom>
-          Movie Explorer Login
+          Movie Explorer Loginfdfd
         </Typography>
         <TextField
           label="Username"
